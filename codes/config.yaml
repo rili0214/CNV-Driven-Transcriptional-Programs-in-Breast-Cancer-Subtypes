@@ -1,0 +1,15 @@
+create_3d_plots: false
+create_chromosome_plots: true
+evidence_score_threshold: 3
+expression_correlation_threshold: 0.3
+fdr_threshold: 0.05
+imputation_method: knn
+impute_missing_values: true
+known_driver_bonus: 3
+min_genes_per_arm: 3
+min_samples_per_subtype: 5
+ml_confidence_threshold: 0.6
+perform_sensitivity_analysis: false
+save_svg_format: true
+trans_correlation_permutations: 0
+use_external_validation: true
